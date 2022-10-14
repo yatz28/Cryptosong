@@ -1,0 +1,2 @@
+# Cryptosong
+Earn from singing
